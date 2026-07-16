@@ -124,6 +124,7 @@ The project includes SQL concepts such as:
 ## Author
 
 Bavithran M
+
 MBA – Operations Management
 
 Tools Used:
